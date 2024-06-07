@@ -1,0 +1,58 @@
+{
+  "profesores": [
+    {
+      "nombre": "alberto",
+      "apellido": "moran",
+      "materias": [
+        {
+          "nombre": "NodeJS desde cero"
+        },
+        {
+          "nombre": "javascript desde cero"
+        },
+        {
+          "nombre": "mongo desde cero"
+        }
+      ],
+      "id": "3ef9"
+    },
+    {
+      "id": "6c71"
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "brenda guadalupe",
+      "apellido": "anguiano",
+      "promedio": "10",
+      "id": "c6a0"
+    },
+    {
+      "nombre": "Noah",
+      "apellido": "moran",
+      "promedio": "8",
+      "id": "14ac"
+    },
+    {
+      "nombre": "Nicolas Eduardo",
+      "apellido": "Contreras",
+      "materno": "Medina",
+      "promedio": "10",
+      "id": "c1b8"
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "nodeJS desde cerp",
+      "duracion": 7,
+      "dificultad": "intermedia",
+      "id": "312e"
+    },
+    {
+      "nombre": "reactJs desde cero",
+      "duracion": 8,
+      "dificultad": "intermedia",
+      "id": "a84c"
+    }
+  ]
+}
